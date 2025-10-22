@@ -53,10 +53,10 @@ Organizations often rely on manual or fragmented systems to manage assets, resul
 
 **Team ID**: `LTVIP2025TMID29498`
 
-- 👨‍💼 **Team Leader**: Veeramallu Hanumath Valli Sravan  
+- 👨‍💼 **Team Leader**:Akunuri Harsha Valli
 - 👨‍💻 Veeranki Vasavi  
-- 👩‍💻 Ustela Hemanth Naga Kumar  
-- 👩‍💻 Veeranki Yaswanth
+- 👩‍💻 Challa Hemasri 
+
 
 ---
 
